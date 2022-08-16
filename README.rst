@@ -1,3 +1,3 @@
-``
-echo 123
-``
+.. code-block::
+
+  echo 123
